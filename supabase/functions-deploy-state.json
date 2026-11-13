@@ -1,0 +1,13 @@
+{
+  "projectId": "72862244",
+  "functions": {
+    "manage-staff": {
+      "hasChanged": false,
+      "hash": "65a8a8e41c619d8a96e0c7e190742187d6518178217de7ebfd38ea59bc4587eb"
+    },
+    "manage-member-login": {
+      "hasChanged": false,
+      "hash": "67f17434e2f365c9150d81c4c8d5b9325f3a7f16a047471ee32039bc3676c538"
+    }
+  }
+}

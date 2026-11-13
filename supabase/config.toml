@@ -1,0 +1,5 @@
+[functions.manage-staff]
+verify_jwt = true
+
+[functions.manage-member-login]
+verify_jwt = true
